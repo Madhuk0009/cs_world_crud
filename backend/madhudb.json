@@ -1,0 +1,25 @@
+{
+  "mobiles": [
+    {
+      "id": "278b",
+      "name": "Samsung",
+      "price": 10000,
+      "ram": 8,
+      "storage": 32
+    },
+    {
+      "id": "b55b",
+      "name": "Mi",
+      "price": 15000,
+      "ram": 12,
+      "storage": 10
+    },
+    {
+      "name": "dssds",
+      "price": 888222,
+      "ram": 2,
+      "storage": 50,
+      "id": "4950"
+    }
+  ]
+}
